@@ -10,5 +10,7 @@ I'm an indie front-end developer who's trying to digitally build my version of t
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-<br>
-![giphy](https://github.com/codenameAT/codenameAT/assets/141349477/18aedc97-6556-4658-9d5e-616ea23137b2)
+
+
+
+[<img align="center" alt="Gif" width="50px" src="(https://github.com/codenameAT/codenameAT/assets/141349477/18aedc97-6556-4658-9d5e-616ea23137b2)" style="padding-right:10px;"/>]
