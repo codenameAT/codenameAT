@@ -13,4 +13,4 @@ I'm an indie front-end developer who's trying to digitally build my version of t
 
 
 
-[<img align="center" alt="Gif" width="50px" src="(https://github.com/codenameAT/codenameAT/assets/141349477/18aedc97-6556-4658-9d5e-616ea23137b2)" style="padding-right:10px;"/>]
+![giphy](https://github.com/codenameAT/codenameAT/assets/141349477/b7fd8cee-f104-46c5-999c-0de37c899da1)
