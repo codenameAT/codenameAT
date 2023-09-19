@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald+code&pause=1000&color=1A1DF7&center=true&multiline=true&width=435&height=60&lines=Aahil+Turner;Front-end+developer;Always+learning" alt="Typing SVG" /></a>
  
-I'm an indie front-end developer who's trying to digitally build my version of the cyberworld one step at a time. I have only been coding for going on two years, but I spend each day enhancing my skills. All my projects are built from the ground up, from planning and designing all the way to real-time problem solving with code.
+I'm an indie front-end developer who's trying to digitally build my version of the cyberworld one step at a time. I have only been coding for going on two years, but I try to spend each day enhancing my skills. All my projects are built from the ground up, from planning and designing all the way to real-time problem solving with code.
 -------------------------------------------------------------------
 ### Languages and tools 
 
