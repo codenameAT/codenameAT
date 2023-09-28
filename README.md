@@ -12,6 +12,6 @@ I'm an indie front-end developer who's trying to digitally build my version of t
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <br></br>
 
+![giphy](https://github.com/codenameAT/codenameAT/assets/141349477/ef43170e-8bd7-4764-ae2b-dd5b29a13ae1)
 
 
-![giphy](https://github.com/codenameAT/codenameAT/assets/141349477/b7fd8cee-f104-46c5-999c-0de37c899da1)
